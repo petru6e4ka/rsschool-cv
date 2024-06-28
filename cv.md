@@ -63,6 +63,8 @@ function rot13(message){
 
 ## Experience
 
+[The test task](https://github.com/petru6e4ka/eliftech)
+
 ## Education
 
 **Harkivs'kij Deržavnij Pedagogicnij Universitet im. G.S. Skovorodi**
