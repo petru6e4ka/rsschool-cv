@@ -27,6 +27,8 @@ Energized by problem solving and value team interaction.
 
 ## Code examples
 
+[Codewars profile](https://www.codewars.com/users/petru6e4ka)
+
 ## Experience
 
 ## Education
