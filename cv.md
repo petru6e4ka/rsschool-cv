@@ -12,6 +12,10 @@
 
 ## About
 
+A motivated and results-oriented front-end developer, leveraging new technologies, enjoying growing my technical skill set to increase the real commercial value of customer's products and deliver effective solutions.
+Utilized strong attention to detail for creating the visual part of the application as well as analytical skills to turn business challenges into real outcomes.
+Energized by problem solving and value team interaction.
+
 ## Skills
 
 ## Code examples
