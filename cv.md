@@ -33,6 +33,9 @@ Energized by problem solving and value team interaction.
 
 ## Education
 
+**Harkivs'kij Deržavnij Pedagogicnij Universitet im. G.S. Skovorodi**
+Master's degree, Fine Arts and Design
+
 ## English
 
 B2
