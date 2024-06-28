@@ -18,6 +18,13 @@ Energized by problem solving and value team interaction.
 
 ## Skills
 
+- Javascript
+- HTML
+- CSS | Sass | Less
+- React
+- Redux
+- Typescript
+
 ## Code examples
 
 ## Experience
