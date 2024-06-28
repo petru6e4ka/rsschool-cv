@@ -1,4 +1,8 @@
+![The photo of Anastasiia Vorobiova](./assets/av.png)
+
 # Anastasiia Vorobiova
+
+#### Front-End developer
 
 ## Contacts
 
