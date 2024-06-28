@@ -20,7 +20,9 @@ Energized by problem solving and value team interaction.
 
 - Javascript
 - HTML
-- CSS | Sass | Less
+- CSS
+- Sass
+- Less
 - React
 - Redux
 - Typescript
@@ -72,4 +74,4 @@ Master's degree, Fine Arts and Design
 
 ## English
 
-B2
+| B2 |
