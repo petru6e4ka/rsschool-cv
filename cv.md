@@ -6,6 +6,10 @@
 
 ## Contacts
 
+Phone: +38 067 1809644
+E-mail: anastasiiavorobiova2403@gmail.com
+Telegram: @Anastasiia_ova
+
 ## About
 
 ## Skills
