@@ -1,0 +1,10 @@
+html {
+  --main-accent: #d8b3a7;
+  --accent: #bb9d7a;
+  --text: #251d20;
+  --soft-gray: #e4e2e5;
+  --gray: #c4bfbd;
+  --white: #ffffff;
+
+  --nav-height: 40px;
+}
