@@ -1,0 +1,69 @@
+.nav {
+  position: sticky;
+  top: 0;
+  margin-bottom: 120px;
+  background-color: var(--text);
+  color: var(--soft-gray);
+  z-index: 100;
+}
+
+.nav__list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav__link {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: var(--nav-height);
+  color: inherit;
+  transition: all 0.3s;
+}
+
+.nav__link::after,
+.nav__link::before {
+  content: "";
+  position: absolute;
+  display: block;
+  height: 40px;
+  width: 3px;
+  background-color: transparent;
+  transition: all 0.3s;
+}
+
+.nav__link::after {
+  right: 50%;
+}
+
+.nav__link::before {
+  left: 50%;
+}
+
+.nav__link:hover {
+  background-image:
+    linear-gradient(
+      -225deg,
+      var(--gray) 0%,
+      var(--accent) 29%,
+      var(--soft-gray) 67%,
+      var(--main-accent) 100%
+    );
+  background-size: 200% auto;
+  color: var(--white);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+}
+
+.nav__link:hover::after {
+  right: calc(100% + 14px);
+  background-color: var(--main-accent);
+}
+
+.nav__link:hover::before {
+  left: calc(100% + 14px);
+  background-color: var(--main-accent);
+}
